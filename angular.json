@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "projet4"
+  "defaultProject": "projet4",
+  "cli": {
+    "analytics": false
+  }
 }
